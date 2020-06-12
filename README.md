@@ -1,4 +1,4 @@
-# [Atman Drift](atman.mpayne.dev)
+# [Atman Drift](https://atman.mpayne.dev)
 
 A freeware authentic vintage Metroidvania for DOS, currently a pre-alpha release in active development.
 
