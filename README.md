@@ -1,2 +1,5 @@
-# atman-drift
-Authentic vintage Metroidvania for DOS
+# Atman Drift
+
+A freeware authentic vintage Metroidvania for DOS, currently a pre-alpha release in active development.
+
+This project is for issue, progress, and release tracking. The game itself is not currently open source.
